@@ -1,0 +1,46 @@
+body {
+  	background: #A7C8F2;
+  	font-family: 'Abel', sans-serif;
+  	font-size: 20px;
+  	color: #558C03;
+}
+
+h1, h2 {
+  	font-family: "impact";
+  	font-weight: normal;
+  	text-transform: uppercase;
+  	margin: 0px;
+  	padding: 0px;
+  	color: #A68A91;
+  	text-align: center;
+}
+
+#logo h1 {
+  	line-height: 150px;
+  	letter-spacing: 2px;
+  	font-size: 3em;
+}
+
+#header-page {
+  	overflow: visible;
+  	height: 450px;
+}
+
+#header {
+  	overflow: visible;
+  	width: 1000px;
+  	margin: 0 auto;
+  	padding: 0px, 0px;
+}
+
+img {
+	position: relative;
+	width: 400px;
+	left: 450px;
+}
+
+#mainContents {
+	width: 1000px;
+	margin: 150px;
+	text-align: justify;
+}
