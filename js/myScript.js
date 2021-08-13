@@ -5,8 +5,8 @@ function changeText1(){
 	document.getElementById("headerChange").innerHTML = "Lorem Ipsum Dolor";
 	document.getElementById("paragraphChange").innerHTML = "Nunc molestie pretium massa at aliquam. Aenean mattis augue id elementum rhoncus. In placerat elit risus, id mollis metus scelerisque sit amet. Donec luctus, ante id consequat feugiat, ipsum diam malesuada justo, et tempus risus tellus vitae metus. Quisque consectetur diam nec ligula volutpat tempor. Donec tellus nulla, interdum quis magna non, lobortis mollis turpis.";
     
-    banner.style.background = '#333333';
-    paragraph.style.color = '#EAEAEA';
+    banner.style.background = '#F75F52';
+    paragraph.style.color = '#222222';
 }
 
 
