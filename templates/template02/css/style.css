@@ -1,0 +1,66 @@
+body {
+	background-image: url('../images/background01.jpg');
+	background-repeat: no-repeat;
+  	background-position: center center;
+  	background-attachment: fixed;
+ 	background-size: 100% 100%;
+ 	background-size: cover;
+	font-family: 'Abel', sans-serif;
+  	font-size: 20px;
+  	color: #A0E7E5
+}
+
+h1, h2{
+  	font-family: "impact";
+  	font-weight: normal;
+	text-transform: uppercase;
+ 	margin: 0px;
+  	padding: 0px;
+  	color: #A0E7E5;
+  	text-align: center;
+}
+
+h2{
+  	text-align: left;
+}
+
+#header{
+  	width: 1000px;
+  	margin: 150px auto;
+}
+
+#logo h1{
+  	line-height: 150px;
+  	letter-spacing: -3px;
+  	font-size: 9.5em;
+}
+
+#ThreeColumns{
+  	overflow: hidden;
+  	width: 1000px;
+  	margin: 0px auto;
+  	padding: 30px 30px; 
+  	background: rgba(89,55,24,0.4);
+}
+
+#ThreeColumns h2{
+  	padding: 0px 9px 20px 0px;
+  	font-size: 50px;
+  	letter-spacing: 1px;
+}
+
+#ThreeColumns #column1{
+  	float: left;
+  	width: 300px;
+  	margin-right: 50px;
+}
+
+#ThreeColumns #column2{
+  	float: left;
+  	width: 300px;
+}
+
+#ThreeColumns #column3{
+  	float: right;
+  	width: 300px;
+}

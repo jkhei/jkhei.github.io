@@ -1,0 +1,131 @@
+body {
+    background: rgba(252,252,252,1.0);
+    color: #2B2B2B;
+    font-family: "Abel", sans-serif;
+    font-size: 20px;
+}
+
+h1,h2 {
+    font-family: 'Gill Sans MT';
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0px;
+    padding: 0px;
+    color: #111111;
+    text-align: center;
+}
+
+h2 {
+    color: #2B2B2B;
+}
+
+#header {
+    width: 1000px;
+    margin: 50px auto;
+}
+
+span {
+    color: rgba(252,252,252,1.0);
+    -webkit-text-stroke-color: #111111;
+    -webkit-text-stroke-width: 5px;
+}
+
+#smallSpan {
+    color: rgba(252,252,252,1.0);
+    -webkit-text-stroke-color: #111111;
+    -webkit-text-stroke-width: 1px;
+}
+
+#logo h1 {
+    line-height: 150px;
+    width: 1000px;
+    font-size: 7em;
+} 
+
+
+#sixColumns {
+    overflow: hidden;
+    width: 1000px;
+    margin: 0px auto;
+    padding: 30px 30px;
+}
+
+#sixColumns #column1 {
+    float: left;
+    width: 300px;
+    text-align: justify;
+    margin-right: 50px;
+}
+
+#sixColumns #column2 {
+    float: left;
+    width: 300px;
+    text-align: justify;
+}
+
+#sixColumns #column3 {
+    float: right;
+    width: 300px;
+    text-align: justify;
+}
+
+#sixColumns #column4 {
+    float: left;
+    width: 300px;
+    text-align: justify;
+    margin-right: 50px;
+}
+
+#sixColumns #column5 {
+    float: left;
+    width: 300px;
+    text-align: justify;
+}
+
+#sixColumns #column6 {
+    float: right;
+    width: 300px;
+    text-align: justify;
+}
+
+#column1 .fab {
+    font-size: 150px;
+    display: block;
+    text-align: center; 
+    padding: 10px;
+}
+
+#column2 .fas {
+    font-size: 150px;
+    display: block;
+    text-align: center;
+    padding: 10px;
+}
+
+#column3 .fab {
+    font-size: 150px;
+    display: block;
+    text-align: center;
+    padding: 10px;
+}
+
+#column4 .fab {
+    font-size: 150px;
+    display: block;
+    text-align: center;
+    padding: 10px;
+}
+
+#column5 .fab {
+    font-size: 150px;
+    display: block;
+    text-align: center;
+    padding: 10px;
+}
+
+#column6 .fas {
+    font-size: 150px;
+    display: block;
+    text-align: center; 
+    padding: 10px;
+}

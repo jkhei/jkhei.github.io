@@ -12,7 +12,7 @@ body{
   line-height: 2em;
   letter-spacing: 2px;
   text-transform: uppercase;
-  font-size: 25px;
+  font-size: 13px;
 }
 
 #nav > ul > li a{
@@ -20,7 +20,7 @@ body{
   line-height: 2em;
   letter-spacing: 2px;
   text-transform: uppercase;
-  font-size: 25px;
+  font-size: 13px;
 }
 
 .container #nav{
@@ -90,7 +90,6 @@ body{
   width: 1000px;
   overflow: hidden;
   margin: 0px auto;
-  padding: 30px 30px;
 }
 
 #section2 a{
@@ -101,11 +100,9 @@ body{
   width: 1000px;
   overflow: hidden;
   margin: 0px auto;
-  padding: 30px 30px;
 }
 
 #section3 a{
-  text-decoration: none;
   color: #021826;
 }
 
@@ -113,11 +110,9 @@ body{
   width: 1000px;
   overflow: hidden;
   margin: 0px auto;
-  padding: 30px 30px;
 }
 
 #section4 a{
-  text-decoration: none;
   color: #07F2F2;
 }
 
@@ -125,11 +120,9 @@ body{
   width: 1000px;
   overflow: hidden;
   margin: 0px auto;
-  padding: 30px 30px;
 }
 
 #section5 a{
-  text-decoration: none;
   color: #021826;
 }
 
@@ -137,11 +130,9 @@ body{
   width: 1000px;
   overflow: hidden;
   margin: 0px auto;
-  padding: 30px 30px;
 }
 
 #section6 a{
-  text-decoration: none;
   color: #07F2F2;
 }
 
@@ -207,6 +198,31 @@ h2{
 }
 
 .content1 img{
+  position: relative;
+  width: 1000px;
+}
+
+.content2 img{
+  position: relative;
+  width: 1000px;
+}
+
+.content3 img{
+  position: relative;
+  width: 1000px;
+}
+
+.content4 img{
+  position: relative;
+  width: 1000px;
+}
+
+.content5 img{
+  position: relative;
+  width: 1000px;
+}
+
+.content6 img{
   position: relative;
   width: 1000px;
 }

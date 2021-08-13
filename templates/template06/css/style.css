@@ -1,0 +1,77 @@
+body{
+  background: #333333;
+  color: #EAEAEA;
+  font-family: "Century Gothic";
+}
+
+#nav > ul > li{
+  display: inline-block;
+  margin-left: 1em;
+  padding: 10px;
+  color: #EAEAEA;
+  line-height: 3.5em;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-size: 33px;
+}
+
+#nav button{
+  border: none;
+  background: #333333;
+  color: #EAEAEA;
+  line-height: 3.5em;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-size: 33px;
+}
+
+.container #nav{
+  position: static;
+  right: none;
+  text-align: center;
+  padding: 30px;
+}
+
+#banner{
+  overflow: hidden;
+  width: 1000px;
+  margin:  0px auto;
+  padding: 30px 30px;
+  background: #F75F52;
+}
+
+#banner h1{
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 90px;
+}
+
+#banner p{
+  font-size: 35px;
+  text-align: justify;
+  letter-spacing: -1px;
+}
+
+#li1{
+  color: #F75F52;
+}
+
+#li2{
+  color: #46A9F0;
+}
+
+#li3{
+  color: #2FF791;
+}
+
+#li4{
+  color: #99E036;
+}
+
+#li5{
+  color: #F7CB2F;
+}
+
+#li6{
+  color: #ED742D;
+}
