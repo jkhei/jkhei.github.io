@@ -54,7 +54,7 @@ body{
 #banner p{
   display: block;
   text-align: center;
-  width: 1000px;
+  width: 750px;
   overflow: hidden;
   margin: 0px auto;
   padding: 30px 30px;
@@ -199,30 +199,30 @@ h2{
 
 .content1 img{
   position: relative;
-  width: 1000px;
+  width: 750px;
 }
 
 .content2 img{
   position: relative;
-  width: 1000px;
+  width: 750px;
 }
 
 .content3 img{
   position: relative;
-  width: 1000px;
+  width: 750px;
 }
 
 .content4 img{
   position: relative;
-  width: 1000px;
+  width: 750px;
 }
 
 .content5 img{
   position: relative;
-  width: 1000px;
+  width: 750px;
 }
 
 .content6 img{
   position: relative;
-  width: 1000px;
+  width: 750px;
 }
